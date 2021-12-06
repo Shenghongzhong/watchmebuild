@@ -21,8 +21,8 @@ defaults:
     layout: post
 email: Hello@watchmebuild.com
 description: a blog about my journey
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: shenghongzhong
 github_username: shenghongzhong
 theme: minima
